@@ -1,10 +1,13 @@
 # A minimax [Battlesnake](http://play.battlesnake.com) Written in JavaScript for Node.js
 
-### [Presentation slides](https://docs.google.com/presentation/d/1wd11KKJxZhwbKAUPx_f8kU7zUj5VSkwgdafW6jVn0Yk/edit?usp=sharing) explaining our engineering process
-
 - First place in RBC hackathon out of 100+ total RBC interns
 - Gold rank in [Battlesnake Spring League](https://play.battlesnake.com/league/spring-league-2021/) 
 
+### Replay of the Tournament Finals:
+
+- We are the pink snake (Royal Bank of Poogers), this recorded replay highlights the finals of the Battlesnake Competition.
+- Interns spent 3 months total preparing their snake algorithms for this final tournament.
+- https://www.twitch.tv/videos/989800618?t=01h09m42s Breakdown of game 1 algorithm can be seen here.
 
 ### Technologies
 
