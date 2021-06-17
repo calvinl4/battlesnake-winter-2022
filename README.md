@@ -8,7 +8,7 @@
 ### Details and Replay of the Tournament:
 
 - We are the pink snake (Royal Bank of Poogers), this recorded replay highlights the finals of the Battlesnake Competition.
-- Interns spent 3 months total preparing their snake algorithms for this final tournament.
+- Interns spent 3 months total preparing their snake AI for this final tournament.
 - Breakdown of game 1 finals can be seen here: https://www.twitch.tv/videos/989800618?t=01h09m42s 
 - The tournament was a battle royale style, where only the top snake from each bracket can proceed.
 
