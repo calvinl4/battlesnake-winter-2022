@@ -3,7 +3,7 @@
 
 - First place in RBC AI snake competition 
 - Gold rank in [Battlesnake Spring League](https://play.battlesnake.com/league/spring-league-2021/) 
-- Utilizes a minimax algorithm with alpha-beta pruning optimized for JavaScript
+- Utilizes a minimax algorithm with backtracking and alpha-beta pruning optimized for JavaScript
 
 ### Details and Replay of the Tournament:
 
